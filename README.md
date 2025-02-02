@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/riyachandra" target="blank"><img src="https://img.shields.io/twitter/follow/riyachandra?logo=twitter&style=for-the-badge" alt="riyachandra" /></a> </p>
 
-- 🌱 I’m currently learning **React native and looking forward to do a good project**
+- 🌱 I’m currently Working in **React and looking forward to do a good project**
 
 - 💬 Ask me about **MEARN,block chain tech,ethical hacking**
 
