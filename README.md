@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Working in **React and looking forward to do a good project**
 
-- 💬 Ask me about **MEARN,block chain tech,ethical hacking**
+- 💬 Ask me about **MERN, Block chain tech, Ethical hacking, Open source contributor**
 
 - 📫 How to reach me **riyachandra9119@gmail.com**
 
