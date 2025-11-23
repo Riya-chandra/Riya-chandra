@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Riya Chandra</h1>
-<h3 align="center">A Passionate frontend developer pursuing Btech from India</h3>
+<h3 align="center">A Passionate fullStack developer pursuing Btech from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-chandra&label=Profile%20views&color=0e75b6&style=flat" alt="riya-chandra" /> </p>
