@@ -43,3 +43,27 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-chandra&show_icons=true&locale=en" alt="riya-chandra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya-chandra&" alt="riya-chandra" /></p>
+
+<div align="center">
+ 
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=Riya-chandra&show_icons=true&locale=en" 
+       alt="Riya-chandra" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riya-chandra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=highcontrast&hide_border=false" 
+     height="150" 
+     alt="languages graph" />
+
+<img src="https://streak-stats.demolab.com?user=Riya-chandra&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" 
+     height="150" 
+     alt="streak graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-chandra&radius=16&theme=redical&area=true&custom_title=My%20contributions&hide_border=false&hide_title=false" 
+     height="300" 
+     alt="activity graph" />
+
+ 
+ 
+</div>
